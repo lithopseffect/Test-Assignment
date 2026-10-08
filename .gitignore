@@ -38,3 +38,8 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 .Rproj.user
+# This is because these are project-specific temporary files that are not
+# useful as part of a shared repo: they are just for the sake of the
+# local device and the user. ie. RStudio preferences, workspace images, etc.
+
+
