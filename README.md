@@ -35,5 +35,5 @@ hint: you can use "git help" to open the terminal manual or "git help -a" to lis
 4. Check Status: Run a command to display the difference between staged and unstaged changes.
 5. Add, commit (message: "Added secret file"),pull and push secret.txt using only terminal commands.
 
-
+Link to [R Markdown](https://github.com/lithopseffect/Test-Assignment/blob/217b1488d98e35a706237c17a0e22395175fcb4f/My_Submission.Rmd):
 
