@@ -1,0 +1,14 @@
+---
+title: "My_Submission"
+output: html_document
+---
+
+## Version control is useful because:
+
+1. It creates an open-source and open-access source of scientific data
+2. It saves previous versions of files for transparency and security
+3. It prevents multiple versions of files edited by multiple users
+
+```{r}
+ 1 + 1
+```
