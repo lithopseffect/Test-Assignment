@@ -2,9 +2,7 @@
 # Autumn
 This is a test assignment for the Data Science in EES course.
 
-https://github.com/lithopseffect/Test-Assignment/blob/ea30e29ca7071a7b24f4792642ea8c3b32be141a/DataSciEES_logo.jpg
-
-
+![DataSci logo](https://github.com/lithopseffect/Test-Assignment/blob/ea30e29ca7071a7b24f4792642ea8c3b32be141a/DataSciEES_logo.jpg)
 
 To complete this assignment please do not use the website GUI unless specifically instructed - this activity is getting you used to interfacing with Github through R studio:
 
