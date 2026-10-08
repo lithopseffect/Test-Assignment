@@ -42,4 +42,6 @@ vignettes/*.pdf
 # useful as part of a shared repo: they are just for the sake of the
 # local device and the user. ie. RStudio preferences, workspace images, etc.
 
-
+.txt.swo
+.txt.swp
+#Just to stop them being annoying...
