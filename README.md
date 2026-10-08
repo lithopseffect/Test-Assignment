@@ -2,6 +2,10 @@
 # Autumn
 This is a test assignment for the Data Science in EES course.
 
+https://github.com/lithopseffect/Test-Assignment/blob/ea30e29ca7071a7b24f4792642ea8c3b32be141a/DataSciEES_logo.jpg
+
+
+
 To complete this assignment please do not use the website GUI unless specifically instructed - this activity is getting you used to interfacing with Github through R studio:
 
 1. Fork this repository to your own GitHub account.
@@ -32,3 +36,6 @@ hint: you can use "git help" to open the terminal manual or "git help -a" to lis
 3. Undo Change: Edit secret.txt, then run a command to revert it to its last committed state before saving.
 4. Check Status: Run a command to display the difference between staged and unstaged changes.
 5. Add, commit (message: "Added secret file"),pull and push secret.txt using only terminal commands.
+
+
+
