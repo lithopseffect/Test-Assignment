@@ -27,9 +27,18 @@ Output:
 
 🚀 Stretch Goals: Terminal Challenge
 Switch to the Terminal tab in RStudio. Find the correct commands to complete these tasks without using the Git GUI buttons.
-hint: you can use "git help" to open the terminal manual or "git help -a" to list allavailable commands
+
+git add README.md
+git commit -m “Comment”
+git pull
+git push
+
+hint: you can use "git help" to open the terminal manual or "git help -a" to list all available commands
 
 1. Run a command to display the last 5 commits in a compact, one-line format.
+
+git log -n 5
+
 2. Create File: Create a file named secret.txt containing the word "Hidden" using only a terminal command.
 3. Undo Change: Edit secret.txt, then run a command to revert it to its last committed state before saving.
 4. Check Status: Run a command to display the difference between staged and unstaged changes.
